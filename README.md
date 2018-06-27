@@ -1,3 +1,11 @@
+# Get HTTPS for Free! Redesign
+This is a redesign of the [Get HTTPS for Free!](https://gethttpsforfree.com/) website.
+
+## Screenshot
+![Screenshot](banner.png)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
