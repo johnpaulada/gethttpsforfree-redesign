@@ -12,7 +12,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "prepare": "npm link bs-platform"
+    "prepare": "npm link bs-platform",
+    "deploy": "surge --domain https://gethttpsforfree-redesign.surge.sh --project build"
   },
   "devDependencies": {
     "@glennsl/bs-jest": "^0.4.2",
