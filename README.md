@@ -1,6 +1,8 @@
 # Get HTTPS for Free! Redesign
 This is a redesign of the [Get HTTPS for Free!](https://gethttpsforfree.com/) website.
 
+[![Made with ReasonReact](https://img.shields.io/badge/Made%20with-ReasonReact-29B6F6.svg?longCache=true&style=for-the-badge)](https://reasonml.github.io/reason-react/en/)
+
 ## Screenshot
 ![Screenshot](banner.png)
 
